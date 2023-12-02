@@ -1,0 +1,23 @@
+.small-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  list-style-type: none;
+}
+.todo-heading {
+  color: black;
+  font-size: 15px;
+  margin-right: 20px;
+}
+.button {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  background-color: white;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
